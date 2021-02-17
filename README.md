@@ -1,4 +1,4 @@
-![Data_leakage](DataLeakage.jpeg)
+![Data_leakage](DataLeakage.jpg)
 1. What is Data-Leakage-in-Machine-Learning
 https://machinelearningmastery.com/data-leakage-machine-learning/
 
