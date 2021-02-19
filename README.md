@@ -1,4 +1,6 @@
 ![Data_leakage](DataLeakage.jpg)
+- In this repository I will explain the "Data Leakage" in details. The repository will be update...
+
 1. What is Data-Leakage-in-Machine-Learning
 https://machinelearningmastery.com/data-leakage-machine-learning/
 
